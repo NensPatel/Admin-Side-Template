@@ -6,7 +6,7 @@ const Dashboard = () => {
         <div className="flex space-x-6 text-gray-400">
             <div className="w-[70%] flex rounded-lg shadow-lg bg-white">
                 <div className="p-6 flex-grow">
-                    <h2 className="text-xl text-[#696cff] mb-3">Congratulations Ashish! 🎉</h2>
+                    <h2 className="text-xl text-[#696cff] mb-3">Congratulations Ashish Vaishnav! 🎉</h2>
                     <p className="mb-4">
                         You have done <span className="font-bold"> 72%</span> more sales today. Check your new badge in your profile.
                     </p>
